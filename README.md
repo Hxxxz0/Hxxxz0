@@ -1,16 +1,14 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Mono&amp;weight=600&amp;size=27&amp;duration=2400&amp;pause=1000&amp;color=8BB998&amp;vCenter=true&amp;repeat=false&amp;width=330&amp;height=52&amp;lines=Hi%2C+I%27m+Haozhe.">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&amp;weight=600&amp;size=27&amp;duration=2400&amp;pause=1000&amp;color=426C4B&amp;vCenter=true&amp;repeat=false&amp;width=330&amp;height=52&amp;lines=Hi%2C+I%27m+Haozhe." alt="Hi, I'm Haozhe." width="330" height="52">
+</picture>
 
-<!--
-**Hxxxz0/Hxxxz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an incoming Ph.D. student at [Peking University](https://english.pku.edu.cn/), [EPIC Lab](https://pku-epic.github.io/), and a research intern at [Galbot](https://www.galbot.com/).
 
-Here are some ideas to get you started:
+My research focuses on **humanoid robot learning and control**, generative motion modeling, and physics-grounded generative models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://hxxxz0.github.io) · [Google Scholar](https://scholar.google.com/citations?user=xKAJ2nkAAAAJ) · [Email](mailto:202322120230@mail.sdu.edu.cn)
+
+---
+
+更多关于我的研究与经历，欢迎访问[个人主页](https://hxxxz0.github.io)。
